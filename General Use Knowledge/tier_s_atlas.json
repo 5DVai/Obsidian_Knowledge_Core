@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "arxiv",
+    "name": "arXiv",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://arxiv.org",
+    "key_links": {
+      "homepage": "https://arxiv.org",
+      "search": "https://arxiv.org/search/",
+      "ai_category": "https://arxiv.org/list/cs.AI/recent",
+      "ml_category": "https://arxiv.org/list/cs.LG/recent",
+      "api": "https://info.arxiv.org/help/api/basics.html"
+    },
+    "content_styles": [
+      "Preprints",
+      "Papers",
+      "Metadata"
+    ],
+    "suggested_use_for_ai": "Primary preprint server for cutting-edge STEM research. Use for latest ML/AI/physics/math papers before peer review. Access via API for bulk ingestion.",
+    "notes": "Not peer-reviewed by arXiv itself; unverified claims. Supports API access for machine ingestion. Categories: cs.AI, cs.LG, math.*, physics.*, etc.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf",
+      "Perplexity-Tier-S-1-research.txt",
+      "T1-Sources.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "acl_anthology",
+    "name": "ACL Anthology",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://aclanthology.org/",
+    "key_links": {
+      "homepage": "https://aclanthology.org/",
+      "search": "https://aclanthology.org/search/",
+      "github": "https://github.com/acl-org/acl-anthology"
+    },
+    "content_styles": [
+      "Proceedings",
+      "Papers",
+      "NLP"
+    ],
+    "suggested_use_for_ai": "Canonical repository for NLP and computational linguistics. 118k+ papers from ACL, EMNLP, and related venues. Open-source metadata on GitHub enables bulk retrieval.",
+    "notes": "Peer-reviewed proceedings. Open metadata facilitates API integration without web scraping. 50+ years of linguistic research.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "google_scholar",
+    "name": "Google Scholar",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://scholar.google.com",
+    "key_links": {
+      "homepage": "https://scholar.google.com",
+      "search": "https://scholar.google.com"
+    },
+    "content_styles": [
+      "Cross-disciplinary search",
+      "Papers",
+      "Citations"
+    ],
+    "suggested_use_for_ai": "Broad academic discovery across publishers, preprints, theses, courts. Good first-stop index for scholarly literature discovery and citation tracking.",
+    "notes": "Aggregates across paywalled and open sources. Supports filtered search by discipline and date.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "jstor",
+    "name": "JSTOR",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://www.jstor.org",
+    "key_links": {
+      "homepage": "https://www.jstor.org",
+      "search": "https://www.jstor.org/search",
+      "about": "https://www.jstor.org/about"
+    },
+    "content_styles": [
+      "Journals",
+      "Books",
+      "Primary sources"
+    ],
+    "suggested_use_for_ai": "Archive of millions of journal articles, books, and primary sources across 75+ disciplines. Especially strong in humanities and social sciences.",
+    "notes": "Non-profit digital library. Often requires institutional access; free trials available.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "semantic_scholar",
+    "name": "Semantic Scholar",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://www.semanticscholar.org",
+    "key_links": {
+      "homepage": "https://www.semanticscholar.org",
+      "search": "https://www.semanticscholar.org",
+      "api": "https://www.semanticscholar.org/product/api"
+    },
+    "content_styles": [
+      "AI-assisted search",
+      "Summaries",
+      "Citation analysis"
+    ],
+    "suggested_use_for_ai": "AI-powered research discovery with semantic search and citation analysis. Particularly strong in CS and AI. Provides paper influence and relationship mapping.",
+    "notes": "Free access. API available. Focuses on understanding paper influence and connections.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "doaj",
+    "name": "DOAJ (Directory of Open Access Journals)",
+    "tier": "Tier-S",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://doaj.org",
+    "key_links": {
+      "homepage": "https://doaj.org",
+      "search": "https://doaj.org/search/journals"
+    },
+    "content_styles": [
+      "Open-access journals",
+      "Peer-reviewed"
+    ],
+    "suggested_use_for_ai": "Curated index of legitimate peer-reviewed open-access journals across science, tech, medicine, social sciences, and humanities.",
+    "notes": "Guarantees free, peer-reviewed access. Quality-controlled index.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "pubmed",
+    "name": "PubMed",
+    "tier": "Tier-S",
+    "primary_domain": "Biomedical & Life Sciences",
+    "category": "Research Papers",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov",
+    "key_links": {
+      "homepage": "https://pubmed.ncbi.nlm.nih.gov",
+      "search": "https://pubmed.ncbi.nlm.nih.gov/",
+      "pmc": "https://www.ncbi.nlm.nih.gov/pmc/"
+    },
+    "content_styles": [
+      "Abstracts",
+      "Clinical trials",
+      "Reviews"
+    ],
+    "suggested_use_for_ai": "Premier database for biomedical and life sciences literature. Indexes millions of citations with links to full text where available.",
+    "notes": "Free access to abstracts; full text availability varies by publisher and license.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "nasa_ads",
+    "name": "NASA ADS (Astrophysics Data System)",
+    "tier": "Tier-S",
+    "primary_domain": "Space & Astrophysics",
+    "category": "Research Papers",
+    "canonical_url": "https://ui.adsabs.harvard.edu",
+    "key_links": {
+      "homepage": "https://ui.adsabs.harvard.edu",
+      "search": "https://ui.adsabs.harvard.edu"
+    },
+    "content_styles": [
+      "Astronomy papers",
+      "Astrophysics research"
+    ],
+    "suggested_use_for_ai": "Specialized index for astronomy and astrophysics research literature. Authoritative source for astronomical publications.",
+    "notes": "Maintained by Harvard Smithsonian Center for Astrophysics. Free access.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "papers_with_code",
+    "name": "Papers With Code",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Research Papers",
+    "canonical_url": "https://paperswithcode.com",
+    "key_links": {
+      "homepage": "https://paperswithcode.com",
+      "search": "https://paperswithcode.com/search",
+      "sota": "https://paperswithcode.com/sota",
+      "datasets": "https://paperswithcode.com/datasets",
+      "api": "https://paperswithcode.com/api"
+    },
+    "content_styles": [
+      "SOTA leaderboards",
+      "Code links",
+      "Paper-to-code mapping"
+    ],
+    "suggested_use_for_ai": "Primary verification layer linking arXiv papers to implementations and datasets. Track SOTA performance across thousands of tasks.",
+    "notes": "JSON exports and API enable automated state-of-the-art queries. Essential for reproducibility verification.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "distill",
+    "name": "Distill",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Research Papers",
+    "canonical_url": "https://distill.pub",
+    "key_links": {
+      "homepage": "https://distill.pub",
+      "circuits": "https://distill.pub/2020/circuits/"
+    },
+    "content_styles": [
+      "Interactive explanations",
+      "Interpretability",
+      "Mechanistic analysis"
+    ],
+    "suggested_use_for_ai": "Tier-S standard for mechanistic interpretability. Provides granular dissection of neural network behaviors with interactive explanations.",
+    "notes": "Currently on hiatus but archive remains authoritative for interpretability pedagogy. Departed from static PDF to offer explorable explanations.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "openreview",
+    "name": "OpenReview",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Research Papers",
+    "canonical_url": "https://openreview.net",
+    "key_links": {
+      "homepage": "https://openreview.net",
+      "venues": "https://openreview.net/venues",
+      "docs": "https://docs.openreview.net"
+    },
+    "content_styles": [
+      "Open peer review",
+      "Critiques",
+      "Decisions"
+    ],
+    "suggested_use_for_ai": "Access peer review process for venues like ICLR and NeurIPS. Analyze rejection reasons, flaws identified by experts, reviewer confidence scores.",
+    "notes": "Provides structured metadata on acceptance rates, decision signals, and scientific critique.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "sciencedirect",
+    "name": "ScienceDirect",
+    "tier": "Tier-1",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://www.sciencedirect.com",
+    "key_links": {
+      "homepage": "https://www.sciencedirect.com",
+      "search": "https://www.sciencedirect.com/search"
+    },
+    "content_styles": [
+      "STM journals",
+      "Books"
+    ],
+    "suggested_use_for_ai": "Large database of scientific, technical, and medical journals and books. Strong in engineering, physics, chemistry, and medicine.",
+    "notes": "Often paywalled; central in many STEM fields. Tier-1 due to paywall constraints for AI systems.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "ssrn",
+    "name": "SSRN (Social Science Research Network)",
+    "tier": "Tier-1",
+    "primary_domain": "Research & Preprints",
+    "category": "Research Papers",
+    "canonical_url": "https://www.ssrn.com",
+    "key_links": {
+      "homepage": "https://www.ssrn.com",
+      "economics": "https://www.ssrn.com/index.cfm/en/",
+      "search": "https://www.ssrn.com/search"
+    },
+    "content_styles": [
+      "Preprints",
+      "Working papers"
+    ],
+    "suggested_use_for_ai": "Major preprint and working-paper repository for economics, law, finance, and social sciences. Expanding into other fields.",
+    "notes": "Free access to abstracts; growing open-access initiatives.",
+    "provenance": [
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "acm_digital_library",
+    "name": "ACM Digital Library",
+    "tier": "Tier-1",
+    "primary_domain": "AI & Computer Science",
+    "category": "Research Papers",
+    "canonical_url": "https://dl.acm.org",
+    "key_links": {
+      "homepage": "https://dl.acm.org",
+      "search": "https://dl.acm.org/search"
+    },
+    "content_styles": [
+      "Conference papers",
+      "Journal articles"
+    ],
+    "suggested_use_for_ai": "ACM conferences and journals on AI, software engineering, and systems. Source for SIGAI, CHI, and CSCW research.",
+    "notes": "Tier-1 due to paywall; institutional access often required.",
+    "provenance": [
+      "T1-Sources.txt"
+    ]
+  },
+  {
+    "id": "ieee_xplore",
+    "name": "IEEE Xplore",
+    "tier": "Tier-1",
+    "primary_domain": "AI & Computer Science",
+    "category": "Research Papers",
+    "canonical_url": "https://ieeexplore.ieee.org",
+    "key_links": {
+      "homepage": "https://ieeexplore.ieee.org",
+      "search": "https://ieeexplore.ieee.org/search/searchresults.jsp"
+    },
+    "content_styles": [
+      "Conference papers",
+      "Journal articles"
+    ],
+    "suggested_use_for_ai": "IEEE conferences and journals on AI system engineering, neural networks, and computer vision.",
+    "notes": "Tier-1 due to paywall; institutional access often required.",
+    "provenance": [
+      "T1-Sources.txt"
+    ]
+  },
+  {
+    "id": "jmlr",
+    "name": "Journal of Machine Learning Research (JMLR)",
+    "tier": "Tier-1",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Research Papers",
+    "canonical_url": "https://www.jmlr.org",
+    "key_links": {
+      "homepage": "https://www.jmlr.org",
+      "search": "https://www.jmlr.org/search"
+    },
+    "content_styles": [
+      "Peer-reviewed papers",
+      "ML research"
+    ],
+    "suggested_use_for_ai": "Canonical peer-reviewed open-access journal for all ML/AI including system design, architectures, benchmarks, and theory.",
+    "notes": "Open access. High standard. Often cited as gold-standard ML venue.",
+    "provenance": [
+      "T1-Sources.txt"
+    ]
+  },
+  {
+    "id": "nature_machine_intelligence",
+    "name": "Nature Machine Intelligence",
+    "tier": "Tier-1",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Research Papers",
+    "canonical_url": "https://www.nature.com/natmachintell/",
+    "key_links": {
+      "homepage": "https://www.nature.com/natmachintell/",
+      "search": "https://www.nature.com/natmachintell/articles"
+    },
+    "content_styles": [
+      "Peer-reviewed papers",
+      "AI research"
+    ],
+    "suggested_use_for_ai": "Top interdisciplinary, peer-reviewed journal for AI theory, systems, and applied intelligence.",
+    "notes": "Tier-1 due to paywall; Nature brand prestige.",
+    "provenance": [
+      "T1-Sources.txt"
+    ]
+  },
+  {
+    "id": "openai_research",
+    "name": "OpenAI Research",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Frontier Lab Publications",
+    "canonical_url": "https://openai.com/research/",
+    "key_links": {
+      "homepage": "https://openai.com/research/",
+      "blog": "https://openai.com/blog/",
+      "index": "https://openai.com/index/"
+    },
+    "content_styles": [
+      "Technical reports",
+      "Blog posts",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Primary source for GPT family, DALL-E, Sora, and RL algorithms (PPO, SAC). Includes educational resources like 'Spinning Up in Deep RL'.",
+    "notes": "Straddles academic paper and product announcement. Includes system cards and safety evaluations.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "deepmind_research",
+    "name": "Google DeepMind Research",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Frontier Lab Publications",
+    "canonical_url": "https://deepmind.google/research/",
+    "key_links": {
+      "homepage": "https://deepmind.google/research/",
+      "blog": "https://deepmind.google/blog/"
+    },
+    "content_styles": [
+      "Research blog",
+      "Technical papers",
+      "Press releases"
+    ],
+    "suggested_use_for_ai": "Canonical source for AI for Science (AlphaFold, GraphCast), multimodal systems, and RL applications to robotics and physical systems.",
+    "notes": "Focuses on cutting-edge applications and alignment research.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "stanford_hai",
+    "name": "Stanford HAI (Human-Centered AI)",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Ethics",
+    "category": "Frontier Lab Publications",
+    "canonical_url": "https://hai.stanford.edu",
+    "key_links": {
+      "homepage": "https://hai.stanford.edu",
+      "research": "https://hai.stanford.edu/research",
+      "ai_index": "https://hai.stanford.edu/ai-index-2024"
+    },
+    "content_styles": [
+      "Reports",
+      "Research",
+      "Perspectives"
+    ],
+    "suggested_use_for_ai": "Intellectual hub for AI ethics and policy. Annual AI Index Report provides macro-level statistics on compute costs, patents, and global adoption.",
+    "notes": "Interdisciplinary collaboration on AI risk mitigation, bias, and hallucination.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "bair_blog",
+    "name": "Berkeley BAIR Blog",
+    "tier": "Tier-1",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Frontier Lab Publications",
+    "canonical_url": "https://bair.berkeley.edu/blog/",
+    "key_links": {
+      "homepage": "https://bair.berkeley.edu/blog/",
+      "about": "https://bair.berkeley.edu/about"
+    },
+    "content_styles": [
+      "Blog posts",
+      "Tutorials",
+      "Paper summaries"
+    ],
+    "suggested_use_for_ai": "High-signal technical resource for robotics and control theory. Accessible yet rigorous summaries of top-conference papers.",
+    "notes": "Emphasizes pedagogical clarity alongside technical depth.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "lillog",
+    "name": "Lil'Log (Lilian Weng)",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Frontier Lab Publications",
+    "canonical_url": "https://lilianweng.github.io/",
+    "key_links": {
+      "homepage": "https://lilianweng.github.io/",
+      "search": "https://lilianweng.github.io/posts/"
+    },
+    "content_styles": [
+      "Literature reviews",
+      "Synthesis posts",
+      "Technical analysis"
+    ],
+    "suggested_use_for_ai": "Tier-S meta-resource by OpenAI researcher. Comprehensive literature reviews on LLM Agents, Hallucinations, Diffusion Models. Acts as high-quality summarization nodes.",
+    "notes": "Personal blog but widely recognized as authoritative. Aggregates scattered research into coherent frameworks.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Official Documentation",
+    "canonical_url": "https://pytorch.org",
+    "key_links": {
+      "homepage": "https://pytorch.org",
+      "docs_root": "https://pytorch.org/docs/stable/",
+      "tutorials": "https://pytorch.org/tutorials/",
+      "api_reference": "https://pytorch.org/docs/stable/torch.html"
+    },
+    "content_styles": [
+      "API reference",
+      "Tutorials",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Canonical reference for tensor operations and dynamic computational graphs. Essential for production-grade ML code.",
+    "notes": "Split between Stable and Beta channels. Updated synchronously with codebase.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "hugging_face",
+    "name": "Hugging Face",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Official Documentation",
+    "canonical_url": "https://huggingface.co",
+    "key_links": {
+      "homepage": "https://huggingface.co",
+      "docs": "https://huggingface.co/docs",
+      "model_hub": "https://huggingface.co/models",
+      "datasets": "https://huggingface.co/datasets",
+      "guides": "https://huggingface.co/docs/hub/guides"
+    },
+    "content_styles": [
+      "Library docs",
+      "Model hub",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Central repository for transformers, datasets, and huggingface_hub libraries. Details on model cards, uploads/downloads, and Inference API.",
+    "notes": "'GitHub of Machine Learning'. Normative instructions for CLI interaction and artifact management.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Official Documentation",
+    "canonical_url": "https://python.langchain.com",
+    "key_links": {
+      "homepage": "https://python.langchain.com",
+      "docs": "https://python.langchain.com/docs/",
+      "api_reference": "https://api.python.langchain.com/en/latest/"
+    },
+    "content_styles": [
+      "API reference",
+      "Guides",
+      "Examples"
+    ],
+    "suggested_use_for_ai": "Orchestration layer for LLMs. Essential for 'Chain' abstraction and LangGraph control flow. Integration points for LLM providers.",
+    "notes": "Central to agentic workflow design.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "llamaindex",
+    "name": "LlamaIndex Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "AI & Machine Learning",
+    "category": "Official Documentation",
+    "canonical_url": "https://docs.llamaindex.ai",
+    "key_links": {
+      "homepage": "https://docs.llamaindex.ai",
+      "rag": "https://docs.llamaindex.ai/en/stable/module_guides/querying/",
+      "data_ingestion": "https://docs.llamaindex.ai/en/stable/module_guides/loading_data/"
+    },
+    "content_styles": [
+      "API reference",
+      "Guides",
+      "Examples"
+    ],
+    "suggested_use_for_ai": "Authority on RAG and data ingestion. Patterns for connecting external data sources (SQL, PDF, APIs) to vector stores. LlamaParse and LlamaExtract for unstructured data.",
+    "notes": "Essential for AI systems requiring external knowledge integration.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "python_docs",
+    "name": "Python Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "Software Engineering",
+    "category": "Official Documentation",
+    "canonical_url": "https://docs.python.org",
+    "key_links": {
+      "homepage": "https://docs.python.org",
+      "docs_root": "https://docs.python.org/3/",
+      "search": "https://docs.python.org/3/search.html",
+      "api_reference": "https://docs.python.org/3/library/index.html"
+    },
+    "content_styles": [
+      "Language reference",
+      "Tutorials",
+      "Library docs"
+    ],
+    "suggested_use_for_ai": "Authoritative reference for Python language, standard library, and official best practices. Version-specific documentation.",
+    "notes": "Maintained by Python Software Foundation. Definitive source for official APIs.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "mdn_web_docs",
+    "name": "MDN Web Docs",
+    "tier": "Tier-S",
+    "primary_domain": "Web Development",
+    "category": "Official Documentation",
+    "canonical_url": "https://developer.mozilla.org",
+    "key_links": {
+      "homepage": "https://developer.mozilla.org",
+      "docs_root": "https://developer.mozilla.org/en-US/docs/Web",
+      "search": "https://developer.mozilla.org/en-US/search",
+      "api_reference": "https://developer.mozilla.org/en-US/docs/Web/API",
+      "learn": "https://developer.mozilla.org/en-US/docs/Learn"
+    },
+    "content_styles": [
+      "Web standards reference",
+      "Tutorials",
+      "Browser APIs"
+    ],
+    "suggested_use_for_ai": "Canonical reference for web standards (HTML, CSS, JavaScript, browser APIs). Well-maintained and community-driven.",
+    "notes": "Open-source and community-maintained. Authoritative source for web technologies.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "react_docs",
+    "name": "React Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "Web Development",
+    "category": "Official Documentation",
+    "canonical_url": "https://react.dev",
+    "key_links": {
+      "homepage": "https://react.dev",
+      "docs_root": "https://react.dev/learn",
+      "api_reference": "https://react.dev/reference/react",
+      "blog": "https://react.dev/blog"
+    },
+    "content_styles": [
+      "API reference",
+      "Tutorials",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Official documentation for React components, hooks, and patterns. Canonical guidance on React implementation.",
+    "notes": "Maintained by Meta/Facebook. Up-to-date with latest React versions.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "nextjs_docs",
+    "name": "Next.js Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "Web Development",
+    "category": "Official Documentation",
+    "canonical_url": "https://nextjs.org",
+    "key_links": {
+      "homepage": "https://nextjs.org",
+      "docs_root": "https://nextjs.org/docs",
+      "api_reference": "https://nextjs.org/docs/api-reference",
+      "learn": "https://nextjs.org/learn"
+    },
+    "content_styles": [
+      "API reference",
+      "Tutorials",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Official documentation for Next.js routing, data fetching, and deployment. Framework-specific features and patterns.",
+    "notes": "Maintained by Vercel. Covers server-side rendering and production deployment.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "typescript_docs",
+    "name": "TypeScript Documentation",
+    "tier": "Tier-S",
+    "primary_domain": "Software Engineering",
+    "category": "Official Documentation",
+    "canonical_url": "https://www.typescriptlang.org",
+    "key_links": {
+      "homepage": "https://www.typescriptlang.org",
+      "docs_root": "https://www.typescriptlang.org/docs",
+      "handbook": "https://www.typescriptlang.org/docs/handbook/",
+      "api_reference": "https://www.typescriptlang.org/docs/handbook/utility-types.html"
+    },
+    "content_styles": [
+      "Language reference",
+      "Handbook",
+      "Guides"
+    ],
+    "suggested_use_for_ai": "Official TypeScript reference for type system, compiler options, and configuration. Authoritative syntax and tooling guidance.",
+    "notes": "Maintained by Microsoft. Comprehensive handbook and reference.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "devdocs",
+    "name": "DevDocs",
+    "tier": "Tier-1",
+    "primary_domain": "Software Engineering",
+    "category": "Official Documentation",
+    "canonical_url": "https://devdocs.io",
+    "key_links": {
+      "homepage": "https://devdocs.io",
+      "search": "https://devdocs.io",
+      "about": "https://devdocs.io/about"
+    },
+    "content_styles": [
+      "Aggregated docs",
+      "Reference"
+    ],
+    "suggested_use_for_ai": "Aggregates hundreds of official docs (languages, frameworks, libraries) into unified, fast, offline-friendly interface.",
+    "notes": "Instant search across multiple documentation sources. Tier-1 as a meta-aggregator rather than authoritative source.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "wolfram_mathworld",
+    "name": "Wolfram MathWorld",
+    "tier": "Tier-S",
+    "primary_domain": "Mathematics",
+    "category": "Encyclopedia / Reference",
+    "canonical_url": "https://mathworld.wolfram.com",
+    "key_links": {
+      "homepage": "https://mathworld.wolfram.com",
+      "search": "https://mathworld.wolfram.com/search/",
+      "topics": "https://mathworld.wolfram.com/topics/"
+    },
+    "content_styles": [
+      "Definitions",
+      "Theorems",
+      "Formulas",
+      "Visualizations"
+    ],
+    "suggested_use_for_ai": "Comprehensive math encyclopedia with definitions, theorems, formulas, and visualizations across pure and applied mathematics.",
+    "notes": "Authoritative and widely cited. Created by Wolfram Research.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "oeis",
+    "name": "OEIS (On-Line Encyclopedia of Integer Sequences)",
+    "tier": "Tier-S",
+    "primary_domain": "Mathematics",
+    "category": "Encyclopedia / Reference",
+    "canonical_url": "https://oeis.org",
+    "key_links": {
+      "homepage": "https://oeis.org",
+      "search": "https://oeis.org/search?q=",
+      "superseeker": "https://oeis.org/wiki/Superseeker"
+    },
+    "content_styles": [
+      "Integer sequences",
+      "References",
+      "Community"
+    ],
+    "suggested_use_for_ai": "Canonical database for identifying and exploring integer sequences. Essential for combinatorics, number theory, and sequence identification.",
+    "notes": "Maintained by OEIS Foundation. Millions of sequences with cross-references.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "planetmath",
+    "name": "PlanetMath",
+    "tier": "Tier-1",
+    "primary_domain": "Mathematics",
+    "category": "Encyclopedia / Reference",
+    "canonical_url": "https://planetmath.org",
+    "key_links": {
+      "homepage": "https://planetmath.org",
+      "search": "https://planetmath.org/search"
+    },
+    "content_styles": [
+      "Articles",
+      "Proofs",
+      "Collaborative"
+    ],
+    "suggested_use_for_ai": "Community-driven math encyclopedia emphasizing peer review, rigor, and community. Alternative explanations for mathematical topics.",
+    "notes": "Less polished than MathWorld but community-maintained with open licensing.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "stanford_encyclopedia_of_philosophy",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "tier": "Tier-S",
+    "primary_domain": "Philosophy & Humanities",
+    "category": "Encyclopedia / Reference",
+    "canonical_url": "https://plato.stanford.edu",
+    "key_links": {
+      "homepage": "https://plato.stanford.edu",
+      "search": "https://plato.stanford.edu/search/searcher"
+    },
+    "content_styles": [
+      "Peer-reviewed articles",
+      "Bibliographies"
+    ],
+    "suggested_use_for_ai": "Peer-reviewed, expert-maintained reference work with nearly 1,800 entries on philosophical topics. Citable source for academic work.",
+    "notes": "Articles written and maintained by domain experts. Continuously updated.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "project_gutenberg",
+    "name": "Project Gutenberg",
+    "tier": "Tier-S",
+    "primary_domain": "Literature & Humanities",
+    "category": "Data Portal",
+    "canonical_url": "https://www.gutenberg.org",
+    "key_links": {
+      "homepage": "https://www.gutenberg.org",
+      "search": "https://www.gutenberg.org/ebooks/search/?query=",
+      "browse_authors": "https://www.gutenberg.org/browse/authors"
+    },
+    "content_styles": [
+      "Books",
+      "Primary sources",
+      "Public domain"
+    ],
+    "suggested_use_for_ai": "Library of 75,000+ digitized public-domain books proofread by volunteers. Access to classic literature and historical texts.",
+    "notes": "Free and openly licensed. Since 1971.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "internet_archive",
+    "name": "Internet Archive (Texts)",
+    "tier": "Tier-1",
+    "primary_domain": "Multidisciplinary",
+    "category": "Data Portal",
+    "canonical_url": "https://archive.org/details/texts",
+    "key_links": {
+      "homepage": "https://archive.org/details/texts",
+      "search": "https://archive.org/search.php?query=collection%3Atexts"
+    },
+    "content_styles": [
+      "Scanned books",
+      "Documents",
+      "Primary sources"
+    ],
+    "suggested_use_for_ai": "Huge repository of scanned books and documents. Especially strong in historical and out-of-print works. Full-text search available.",
+    "notes": "Coverage is unmatched but quality varies. Tier-1 due to variable accuracy.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "perseus_digital_library",
+    "name": "Perseus Digital Library",
+    "tier": "Tier-S",
+    "primary_domain": "Classics & Humanities",
+    "category": "Data Portal",
+    "canonical_url": "https://www.perseus.tufts.edu",
+    "key_links": {
+      "homepage": "https://www.perseus.tufts.edu",
+      "search": "https://www.perseus.tufts.edu/hopper/"
+    },
+    "content_styles": [
+      "Classical texts",
+      "Translations",
+      "Tools"
+    ],
+    "suggested_use_for_ai": "Tufts University's digital library with Greek and Roman texts, aligned translations, and lexical tools. Extended collections on other topics.",
+    "notes": "Scholarly resource with rigorous text curation and annotation.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "internet_history_sourcebooks",
+    "name": "Internet History Sourcebooks",
+    "tier": "Tier-S",
+    "primary_domain": "History",
+    "category": "Data Portal",
+    "canonical_url": "https://sourcebooks.fordham.edu",
+    "key_links": {
+      "homepage": "https://sourcebooks.fordham.edu",
+      "docs_root": "https://sourcebooks.fordham.edu/index.asp",
+      "search": "https://sourcebooks.fordham.edu/search.asp"
+    },
+    "content_styles": [
+      "Primary sources",
+      "Curated collections"
+    ],
+    "suggested_use_for_ai": "Fordham University project providing public-domain and copy-permitted historical texts across civilizations. Widely used educational resource.",
+    "notes": "Curated collections across ancient, medieval, and modern history.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "pubchem",
+    "name": "PubChem",
+    "tier": "Tier-S",
+    "primary_domain": "Chemistry & Biology",
+    "category": "Data Portal",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov",
+    "key_links": {
+      "homepage": "https://pubchem.ncbi.nlm.nih.gov",
+      "search": "https://pubchem.ncbi.nlm.nih.gov/#query=",
+      "api_reference": "https://pubchem.ncbi.nlm.nih.gov/rest/pug"
+    },
+    "content_styles": [
+      "Molecule data",
+      "Bioactivity",
+      "Downloads"
+    ],
+    "suggested_use_for_ai": "Free NCBI database of chemical molecules and bioactivity data. API-accessible for programmatic retrieval.",
+    "notes": "Maintained by NCBI. Machine-readable API for chemical data.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "nasa_science",
+    "name": "NASA Science",
+    "tier": "Tier-S",
+    "primary_domain": "Space & Earth Science",
+    "category": "Data Portal",
+    "canonical_url": "https://science.nasa.gov",
+    "key_links": {
+      "homepage": "https://science.nasa.gov",
+      "search": "https://science.nasa.gov/search",
+      "astrophysics": "https://science.nasa.gov/astrophysics/",
+      "earth_science": "https://science.nasa.gov/earth-science/"
+    },
+    "content_styles": [
+      "Data",
+      "Articles",
+      "Images",
+      "Missions"
+    ],
+    "suggested_use_for_ai": "Authoritative portal for mission information, datasets, and educational resources on space and Earth science.",
+    "notes": "Official NASA science portal with publicly available data.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "khan_academy",
+    "name": "Khan Academy",
+    "tier": "Tier-S",
+    "primary_domain": "General Education",
+    "category": "Learning Platform",
+    "canonical_url": "https://www.khanacademy.org",
+    "key_links": {
+      "homepage": "https://www.khanacademy.org",
+      "search": "https://www.khanacademy.org/search?page_search_query=",
+      "about": "https://www.khanacademy.org/about"
+    },
+    "content_styles": [
+      "Lessons",
+      "Videos",
+      "Exercises"
+    ],
+    "suggested_use_for_ai": "Free, world-class education through structured lessons, videos, and practice. Covers K-12 and early college math, science, and humanities.",
+    "notes": "Nonprofit with strong reputation for clarity and pedagogy.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "mit_ocw",
+    "name": "MIT OpenCourseWare",
+    "tier": "Tier-S",
+    "primary_domain": "General Education",
+    "category": "Learning Platform",
+    "canonical_url": "https://ocw.mit.edu",
+    "key_links": {
+      "homepage": "https://ocw.mit.edu",
+      "search": "https://ocw.mit.edu/search/",
+      "math_courses": "https://ocw.mit.edu/courses/mathematics/",
+      "cs_courses": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"
+    },
+    "content_styles": [
+      "Courses",
+      "Lectures",
+      "Assignments",
+      "Notes"
+    ],
+    "suggested_use_for_ai": "Free course materials from MIT covering math, CS, engineering, physics, and more. University-level rigor with open licensing.",
+    "notes": "2,500+ courses available. Self-paced learning.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "tier": "Tier-S",
+    "primary_domain": "General Education",
+    "category": "Learning Platform",
+    "canonical_url": "https://www.coursera.org",
+    "key_links": {
+      "homepage": "https://www.coursera.org",
+      "search": "https://www.coursera.org/search?query="
+    },
+    "content_styles": [
+      "Courses",
+      "Specializations",
+      "Degrees"
+    ],
+    "suggested_use_for_ai": "MOOC platform with courses, specializations, and degrees from universities and industry partners. Mix of free audit and paid certificates.",
+    "notes": "Large catalog with structured learning paths.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "edx",
+    "name": "edX",
+    "tier": "Tier-S",
+    "primary_domain": "General Education",
+    "category": "Learning Platform",
+    "canonical_url": "https://www.edx.org",
+    "key_links": {
+      "homepage": "https://www.edx.org",
+      "search": "https://www.edx.org/search"
+    },
+    "content_styles": [
+      "MOOCs",
+      "Programs",
+      "Micro-Degrees"
+    ],
+    "suggested_use_for_ai": "Nonprofit MOOC platform founded by MIT and Harvard. University-level courses and professional programs.",
+    "notes": "Founded by top universities with commitment to accessibility.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "freecodecamp",
+    "name": "freeCodeCamp",
+    "tier": "Tier-1",
+    "primary_domain": "Software Engineering & Development",
+    "category": "Learning Platform",
+    "canonical_url": "https://www.freecodecamp.org",
+    "key_links": {
+      "homepage": "https://www.freecodecamp.org",
+      "learn": "https://www.freecodecamp.org/learn",
+      "news": "https://www.freecodecamp.org/news",
+      "search": "https://www.freecodecamp.org/news/search/"
+    },
+    "content_styles": [
+      "Tutorials",
+      "Projects",
+      "Blog"
+    ],
+    "suggested_use_for_ai": "Open-source curriculum for learning to code. Project-based learning with emphasis on practical skills.",
+    "notes": "Community-driven with strong reputation for hands-on coding.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt"
+    ]
+  },
+  {
+    "id": "open_culture",
+    "name": "Open Culture (Course Index)",
+    "tier": "Tier-1",
+    "primary_domain": "General Education",
+    "category": "Learning Platform",
+    "canonical_url": "https://www.openculture.com",
+    "key_links": {
+      "homepage": "https://www.openculture.com",
+      "courses": "https://www.openculture.com/freeonlinecourses",
+      "search": "https://www.openculture.com/?s=course"
+    },
+    "content_styles": [
+      "Course links",
+      "Podcasts"
+    ],
+    "suggested_use_for_ai": "Curated directory pointing to free university courses, lectures, and podcasts from major institutions.",
+    "notes": "Aggregator of open educational resources.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "tier": "Tier-S",
+    "primary_domain": "Software Engineering",
+    "category": "OSS Hub",
+    "canonical_url": "https://github.com",
+    "key_links": {
+      "homepage": "https://github.com",
+      "search": "https://github.com/search",
+      "explore": "https://github.com/explore",
+      "trending": "https://github.com/trending",
+      "docs": "https://docs.github.com",
+      "api": "https://docs.github.com/en/rest"
+    },
+    "content_styles": [
+      "Code",
+      "Docs",
+      "Issues",
+      "Discussions"
+    ],
+    "suggested_use_for_ai": "Largest code-hosting platform. Primary source for real-world open-source code examples and implementation patterns. Read issues and PRs to understand actual API usage.",
+    "notes": "De facto standard for OSS. API enables programmatic access.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "sourcegraph",
+    "name": "Sourcegraph",
+    "tier": "Tier-1",
+    "primary_domain": "Software Engineering",
+    "category": "OSS Hub",
+    "canonical_url": "https://sourcegraph.com",
+    "key_links": {
+      "homepage": "https://sourcegraph.com",
+      "search": "https://sourcegraph.com/search",
+      "docs": "https://docs.sourcegraph.com",
+      "api": "https://docs.sourcegraph.com/api"
+    },
+    "content_styles": [
+      "Code search",
+      "Cross-repo navigation",
+      "Docs"
+    ],
+    "suggested_use_for_ai": "Semantic code search engine. Find usage patterns and API examples across large codebases. Tier-1 as specialized secondary to GitHub.",
+    "notes": "Enables semantic code navigation and pattern discovery.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "stack_overflow",
+    "name": "Stack Overflow",
+    "tier": "Tier-S",
+    "primary_domain": "Software Engineering",
+    "category": "Q&A / Forum",
+    "canonical_url": "https://stackoverflow.com",
+    "key_links": {
+      "homepage": "https://stackoverflow.com",
+      "search": "https://stackoverflow.com/search",
+      "questions": "https://stackoverflow.com/questions",
+      "tags": "https://stackoverflow.com/tags"
+    },
+    "content_styles": [
+      "Q&A",
+      "Discussions"
+    ],
+    "suggested_use_for_ai": "Massive Q&A archive for practical coding issues, error messages, and edge cases across all programming languages and frameworks.",
+    "notes": "Community-driven with peer curation. Practical and immediate focus.",
+    "provenance": [
+      "Open-AI-Tier-S-1-research.txt",
+      "Perplexity-Tier-S-1-research.txt",
+      "tier-s-and-1-sources.md"
+    ]
+  },
+  {
+    "id": "ietf",
+    "name": "IETF (Internet Engineering Task Force)",
+    "tier": "Tier-S",
+    "primary_domain": "Standards & Governance",
+    "category": "Standards / Specs",
+    "canonical_url": "https://www.ietf.org",
+    "key_links": {
+      "homepage": "https://www.ietf.org",
+      "rfc_search": "https://www.rfc-editor.org/search",
+      "datatracker": "https://datatracker.ietf.org"
+    },
+    "content_styles": [
+      "RFCs",
+      "Standards",
+      "Protocols"
+    ],
+    "suggested_use_for_ai": "Canonical source for internet protocols and standards (HTTP, HTTPS, DNS, TLS, etc.). RFCs define foundational network behavior.",
+    "notes": "Open standards body. RFCs are immutable reference points.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "w3c",
+    "name": "W3C (World Wide Web Consortium)",
+    "tier": "Tier-S",
+    "primary_domain": "Standards & Governance",
+    "category": "Standards / Specs",
+    "canonical_url": "https://www.w3.org",
+    "key_links": {
+      "homepage": "https://www.w3.org",
+      "technical_reports": "https://www.w3.org/TR/"
+    },
+    "content_styles": [
+      "Technical specs",
+      "Standards"
+    ],
+    "suggested_use_for_ai": "Standards body for web technologies: HTML, CSS, XML, Web APIs, WebAssembly, etc. Technical reports are authoritative.",
+    "notes": "International community consensus on web standards.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "nist",
+    "name": "NIST AI Risk Management Framework",
+    "tier": "Tier-S",
+    "primary_domain": "Security & Risk",
+    "category": "Security / Compliance",
+    "canonical_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "key_links": {
+      "homepage": "https://www.nist.gov/itl/ai-risk-management-framework"
+    },
+    "content_styles": [
+      "Framework docs",
+      "Guidelines"
+    ],
+    "suggested_use_for_ai": "Government framework for AI risk management. Authoritative guidance on responsible AI development and deployment.",
+    "notes": "US government standard. Applicable to AI systems in regulated contexts.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  },
+  {
+    "id": "owasp",
+    "name": "OWASP (Open Worldwide Application Security Project)",
+    "tier": "Tier-1",
+    "primary_domain": "Security & Risk",
+    "category": "Security / Compliance",
+    "canonical_url": "https://owasp.org",
+    "key_links": {
+      "homepage": "https://owasp.org",
+      "top_10": "https://owasp.org/www-project-top-ten/"
+    },
+    "content_styles": [
+      "Guidelines",
+      "Best practices"
+    ],
+    "suggested_use_for_ai": "Community-driven security guidelines including OWASP Top 10 for web application security. Applicable to AI system deployment.",
+    "notes": "Tier-1 as a secondary to NIST for AI; primary for general application security.",
+    "provenance": [
+      "AI-Knowledge-Atlas-Generation.pdf"
+    ]
+  }
+]

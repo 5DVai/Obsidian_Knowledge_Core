@@ -1,0 +1,810 @@
+How to Speak – Knowledge Bible
+
+Based on Patrick Winston’s “How to Speak”
+
+1. Core Thesis
+
+Your success in life is driven largely by:
+
+Your ability to speak.
+
+Your ability to write.
+
+The quality of your ideas.
+In that order.
+
+Communication skill is mostly:
+
+Knowledge (K): what you know about how to speak.
+
+Practice (P): how much you use and refine that knowledge.
+
+Talent (T): innate ability, which is relatively small.
+
+Therefore:
+
+You can outperform naturally gifted speakers by acquiring more techniques (K) and applying deliberate practice (P).
+
+Treat speaking as a weapon/tool you must not enter “battle” without.
+
+Meta-goal:
+
+Build your own repertoire of techniques.
+
+Observe great speakers, ask “why does this work?”, and copy what fits your style.
+
+2. Rule of Engagement: Attention
+
+Humans effectively have one language processor:
+
+If it’s reading email/web, it’s not listening to you.
+
+Multitasking in language is an illusion.
+
+For both you and your audience, protect attention:
+
+Ban laptops and phones in serious talks when possible.
+
+Visible device use:
+
+Distracts the user.
+
+Distracts everyone around them.
+
+Distracts the speaker (and degrades performance).
+
+Principle:
+
+Attention is finite. Guard it ruthlessly.
+
+3. How to Start a Talk
+3.1. Do NOT open with a joke
+
+At the very beginning:
+
+People are still settling in.
+
+They’re adapting to your voice, speed, accent, and presence.
+
+They may be putting things away or arriving mentally.
+
+A joke in this phase:
+
+Often falls flat.
+
+Wastes the “setup” moment.
+
+3.2. Start with an Empowerment Promise
+
+Define what the audience will be able to do/know at the end that they couldn’t at the start.
+
+Features of a good empowerment promise:
+
+Specific: not “you’ll learn something”, but “you will know how to X”.
+
+Desirable: clearly valuable to them.
+
+Time-bound: “by the end of this hour / talk / section”.
+
+Example structure:
+
+“By the end of this talk, you’ll know:
+
+A set of techniques for <topic>.
+
+How to avoid the most common failure patterns.
+
+At least one idea that could materially change your results.”
+
+Secondary benefit:
+
+Forces you to decide what the talk is actually for.
+
+4. Four Core Delivery Heuristics (“Bus Re-entry Heuristics”)
+
+These are techniques to help people “get back on the bus” after they drift.
+
+4.1. Cycling: Say the Important Things Multiple Times
+
+Reality:
+
+At any given moment, a fraction of the audience is mentally fogged out.
+
+Strategy:
+
+“Cycle around” your key idea 2–3 times:
+
+First pass: intuitive overview.
+
+Second pass: more precise with structure.
+
+Third pass: example or alternative framing.
+
+Purpose:
+
+Increases probability that everyone hears and understands the essentials at least once.
+
+4.2. Fencing: Define What Your Idea Is and Is NOT
+
+Build a conceptual fence around your idea:
+
+Show positive examples: “This is X.”
+
+Show near-misses and non-examples: “This is NOT X.”
+
+Use contrast:
+
+“This algorithm may look like Jones’s, but his is exponential and ours is linear.”
+
+“This structure is an arch; these look similar, but they fail the defining property.”
+
+Purpose:
+
+Prevent confusion with similar concepts.
+
+Position your idea clearly within the landscape of related ideas.
+
+4.3. Verbal Punctuation: Signposting and Structure
+
+People need landmarks to reorient:
+
+Explicit outline: “First, we’ll cover…, then…, finally…”
+
+Enumeration: “Now we’re on point three.”
+
+Section markers: “We’ve finished tools; now let’s discuss special cases.”
+
+Practical tactics:
+
+Show a simple agenda early.
+
+Periodically refer back: “We’ve done 1 and 2; now we’re on 3.”
+
+Use verbal seams: “That wraps up X. Next is Y.”
+
+Purpose:
+
+Lets people know where they are and when it’s safe to re-engage after drifting.
+
+4.4. Questions: Use Silence Deliberately
+
+Ask the audience questions:
+
+To re-engage them.
+
+To check understanding.
+
+To change the rhythm.
+
+Key technique:
+
+After asking, wait.
+
+You can wait up to ~7 seconds; it will feel long to you, but it’s normal.
+
+Designing questions:
+
+Not too trivial (people feel foolish answering).
+
+Not too hard (no one answers).
+
+Aim for “answerable with some thought.”
+
+Purpose:
+
+Creates participation.
+
+Signals “now is a good time to get back on the bus.”
+
+5. Time and Place
+5.1. When to Speak
+
+Ideal lecture times (for students / knowledge work audiences):
+
+Late morning (e.g., ~11 AM):
+
+People are awake but not yet fatigued.
+
+Not straight after a heavy meal.
+
+Avoid:
+
+Very early morning (people groggy).
+
+Right after meals (post-lunch dip).
+
+Late night (fatigue).
+
+5.2. Where to Speak
+
+Lighting
+
+Room should be well lit.
+
+Dark rooms signal “sleep” to the brain.
+
+If AV staff want lights down “for the slides”, push back:
+
+People can’t see slides through closed eyelids.
+
+Case the Room
+
+Visit the room before your talk.
+
+Check:
+
+Where you will stand.
+
+Board/screen visibility.
+
+Mic and AV equipment.
+
+Strange layouts or obstacles.
+
+Purpose:
+
+Avoid surprises.
+
+Adjust your approach to the physical constraints.
+
+Audience Density
+
+The room should be at least half full.
+
+Too large and mostly empty:
+
+Feels like your event is unimportant.
+
+Audience wonders “what better thing is happening elsewhere?”
+
+Mental trick:
+
+When rehearsing in an empty room, imagine it filled with indifferent farm animals.
+
+Real audience will feel easier by comparison.
+
+6. Tools of the Trade: Boards, Props, and Slides
+6.1. Boards (Chalkboards/Whiteboards)
+
+Use boards when your goal is informing/teaching.
+
+Advantages:
+
+Graphic Quality
+
+Easy to draw diagrams, arrows, spatial relationships.
+
+Visual structure emerges gradually.
+
+Speed Matching
+
+Writing speed ≈ audience absorption speed.
+
+Prevents “slide flipping” too fast for comprehension.
+
+Hand Management
+
+Novice speakers often don’t know what to do with their hands:
+
+Stuff hands in pockets.
+
+Put them behind their back (which can signal concealment or disrespect in some cultures).
+
+A board gives your hands a purpose:
+
+Writing.
+
+Underlining.
+
+Pointing.
+
+Empathetic Mirroring
+
+When the audience watches you draw/write or manipulate real objects, mirror neurons fire.
+
+They mentally simulate the action.
+
+This increases engagement and retention compared to static slides.
+
+6.2. Props
+
+Think like a playwright:
+
+Props can:
+
+Foreshadow events.
+
+Anchor key concepts in memory.
+
+Create emotional or cognitive tension.
+
+Use props to:
+
+Make abstract ideas concrete (e.g., bicycle wheel for gyroscopic force).
+
+Force rethinking of a problem (e.g., duct tape on one part of the wheel to focus attention).
+
+Demonstrate principles (e.g., pendulum ball near the face to dramatize conservation of energy).
+
+Properties of effective props:
+
+Visible to the whole audience.
+
+Used repeatedly through the talk, not just once.
+
+Tied clearly to the key idea.
+
+Why they work:
+
+Combine physical movement, visual cues, and narrative tension.
+
+Those scenes become what people remember years later.
+
+6.3. Slides
+6.3.1. Primary Purpose
+
+Slides are best for exposing ideas (e.g., job talks, conference talks), not for detailed teaching.
+
+6.3.2. Common Crimes
+
+Too Many Slides
+
+Almost everyone uses too many.
+
+Too Many Words
+
+People read the slide and stop listening.
+
+Remember: one language processor — reading competes with listening.
+
+Reading the Slides Aloud
+
+Insults the audience’s literacy.
+
+Makes your presence redundant.
+
+Small Fonts
+
+Tools encourage shrinking text to fit more content.
+
+Don’t do it:
+
+Minimum comfortable size often around ~40–50 pt for big rooms.
+
+If you need smaller fonts, you’re cramming too much on the slide.
+
+Visual Clutter
+
+Busy backgrounds.
+
+Logos on every slide.
+
+Gratuitous bullets and lines.
+
+Distance Between You and Slides
+
+Standing far away from the screen and forcing audience to “tennis match” between you and the projected content.
+
+Laser Pointer Abuse
+
+Forces you to turn your back to the audience.
+
+Loses eye contact and connection.
+
+Produces distracting motion.
+
+Heavy Slides
+
+Wall-of-text slides with minimal white space or imagery.
+
+Hard to parse and exhausting.
+
+Slide Deck Bloat
+
+Dozens of slides deep into the talk (e.g., slide 80) with more to come.
+
+Long lists of conclusions or “10 concluding slides” kill attention.
+
+6.3.3. Good Slide Practice
+
+Simplify ruthlessly:
+
+Remove decorative backgrounds.
+
+Remove logos (except maybe on title slide).
+
+Remove unnecessary titles when you’re already stating them verbally.
+
+Minimal text:
+
+Use short phrases.
+
+Let spoken words carry the narrative.
+
+Treat slides as condiments, not the main dish.
+
+Font size as throttle:
+
+Keep fonts large to force brevity.
+
+Replace laser pointers:
+
+Embed arrows or labels directly on the slide.
+
+Then you can say: “Look at the point labeled (1).”
+
+Allow “hapax” slides sparingly:
+
+One “complex” slide per talk (e.g., a dense diagram) may be acceptable when the whole point is its complexity.
+
+Use once (per talk/paper/book) and explain why it’s there.
+
+Print-and-lay-out test:
+
+Print all slides.
+
+Lay them on a table.
+
+If most pages are dark with text and little white space, your deck is too heavy.
+
+7. Modes of Speaking: Inform, Inspire, Persuade
+7.1. Informing / Teaching
+
+Start with:
+
+An empowerment promise.
+
+A sense of why the topic is exciting or important.
+
+Inspire by:
+
+Showing dramatic contrasts (e.g., an algorithm that would take longer than the age of the solar system vs one that runs in seconds).
+
+Expressing genuine passion for the subject.
+
+Teaching people “how to think”:
+
+Humans are story-driven.
+
+Thinking is organizing, comparing, and critiquing stories.
+
+To teach thinking:
+
+Provide high-quality stories (cases, examples).
+
+Offer questions to ask about those stories.
+
+Show methods for analyzing and evaluating them.
+
+Show how to combine stories into models and frameworks.
+
+7.2. Persuading: Oral Exams
+
+Two major failure modes:
+
+Failure to situate.
+
+Failure to practice.
+
+Situating:
+
+Place your work in context:
+
+Why the problem matters.
+
+How long it has been open.
+
+Why solving it has impact.
+
+How your contribution fits with global efforts.
+
+Practicing:
+
+Don’t rehearse only with people who already know your work.
+
+They will “hallucinate” missing content because they know the backstory.
+
+Instead:
+
+Practice with smart but uninformed friends.
+
+Ask them to be brutally honest: “If you can’t make me cry, you’re not helping me.”
+
+Committee composition:
+
+Younger examiners may be more aggressively critical as they try to prove themselves.
+
+Senior examiners may be more measured and contextual.
+
+When possible, aim for a committee with more experienced members.
+
+7.3. Persuading: Job Talks
+
+Two things you must establish within ~5 minutes:
+
+You have vision.
+
+You have done something.
+
+Vision:
+
+Define an important problem people care about.
+
+Show that your approach is new or distinctive.
+
+Example pattern:
+
+“The big problem is __. Many people care because __.
+My approach is __, which differs from prior work by __.”
+
+Showing you’ve done something:
+
+List the steps needed to solve the problem.
+
+Mark which ones you have already completed.
+
+Pattern:
+
+“To solve this, we must:
+
+Specify the behavior or phenomenon precisely.
+
+Identify constraints or principles that make it tractable.
+
+Build and test a system or model.
+
+Evaluate its performance or implications.
+
+We have completed steps 1–3 and will show you the system today.”
+
+Structure (“sandwich” model):
+
+Beginning: problem, vision, and roadmap/steps.
+
+Middle: details and evidence.
+
+End: contributions mirroring the initial steps:
+
+“We contributed:
+
+A formal specification of __.
+
+A constraint framework for __.
+
+An implemented system that __.
+
+An evaluation showing __.”
+
+7.4. Getting Known / Recognized
+
+Why care?
+
+People rarely get used to being ignored.
+
+You want your ideas to be recognized and taken seriously.
+
+Your ideas are like your children:
+
+You don’t want them going out into the world poorly dressed.
+
+Speaking is the act of dressing your ideas in respectable clothing.
+
+8. Winston’s Star: Making Work Memorable
+
+A 5-part framework; each element starts with S.
+
+Symbol
+
+A simple, visual anchor (e.g., an arch).
+
+Something people can picture easily.
+
+Slogan
+
+A short phrase that labels your idea (e.g., “one-shot learning”).
+
+Acts as a handle for memory and discussion.
+
+Surprise
+
+A result that violates naive expectations (e.g., “You don’t need millions of examples; one can suffice if you use it wisely.”).
+
+People remember surprises.
+
+Salient Idea
+
+Not “important” but “stands out.”
+
+A concept that is clearly central (e.g., “near miss” as a key learning mechanism).
+
+Avoid packing too many equally-strong ideas into one work; pick one that sticks.
+
+Story
+
+A narrative:
+
+How the problem arose.
+
+What you tried.
+
+How you solved it.
+
+Why it matters.
+
+Humans remember stories far better than abstract lists.
+
+Use Winston’s Star when crafting papers, talks, and research programs to increase their memorability.
+
+9. How to End a Talk
+9.1. Final Slide
+
+Do not end with:
+
+A long list of collaborators.
+
+A gigantic reference slide.
+
+“Thank you” written alone.
+
+Your email/URL as a big lonely slide.
+
+Place collaborators:
+
+Recognize them on the first slide:
+
+Names, affiliations, funding acknowledgments.
+
+Avoid making the last message “I only did 1/1000th of this”.
+
+Best practice:
+
+Final slide = Contributions.
+
+Label it “Contributions”, not “Conclusions”.
+
+Keep it visible during Q&A and as people leave.
+
+Contributions slide structure:
+
+Bullet points summarizing what you did:
+
+“We introduced __.”
+
+“We proved __.”
+
+“We built __.”
+
+“We demonstrated __.”
+
+9.2. Final Words
+
+Ending with “Thank you”:
+
+Common but weak.
+
+Implies people stayed merely out of politeness.
+
+You won’t be punished for it, but you miss an opportunity.
+
+Alternatives:
+
+Joke (At the End)
+
+By the end, people are tuned to your style.
+
+A closing joke can leave them with a sense of having enjoyed the entire talk.
+
+Benediction
+
+A formulaic blessing or closing (“God bless you, and God bless ___”).
+
+Works in political or ceremonial contexts; adapt to your setting.
+
+Convention
+
+Use signals your audience knows mark the end (similar to “Ite missa est” in Mass or a conductor shaking hands with the concertmaster).
+
+Salute the Audience
+
+Express genuine appreciation for them and the environment:
+
+“It’s been stimulating to be here.”
+
+“Your questions have been provocative and helpful.”
+
+“I’d be glad to continue the conversation in the future.”
+
+Principle:
+
+The last words should reinforce your authority and connection, not apologize for taking their time.
+
+10. Quick Operational Checklists
+10.1. Before the Talk
+
+ Clarify your empowerment promise.
+
+ Decide if your goal is informing, inspiring, or persuading (oral exam, job talk, pitch).
+
+ Design:
+
+ A clear outline with 3–5 sections.
+
+ At least one symbol/story for Winston’s Star.
+
+ Choose tools:
+
+ Board/props if teaching.
+
+ Slides (minimal) if exposing or pitching.
+
+ Build slides with:
+
+ Large fonts.
+
+ Minimal text.
+
+ No unnecessary logos/backgrounds.
+
+ Embedded arrows instead of relying on a laser pointer.
+
+ Visit or visualize the room:
+
+ Check lighting, AV, seating.
+
+ Plan where you’ll stand and move.
+
+ Arrange practice:
+
+ Run through the talk with people unfamiliar with your work.
+
+ Invite ruthless feedback.
+
+10.2. During the Talk
+
+ Start with:
+
+ Rule of engagement (if needed): devices closed.
+
+ Empowerment promise.
+
+ Use the four bus heuristics:
+
+ Cycle key ideas several times.
+
+ Fence your idea against alternatives and confusions.
+
+ Use verbal punctuation to signal transitions.
+
+ Ask questions, wait in silence for answers.
+
+ Maintain:
+
+ Eye contact (don’t face the slides).
+
+ Natural hand use (board, pointing, props).
+
+ If using slides:
+
+ Do not read them aloud.
+
+ Speak around the bullet phrases, not through them.
+
+ Pause when a text-heavy slide is necessary to let people read.
+
+10.3. Ending the Talk
+
+ Last slide is Contributions, not “Thank you” or contact info.
+
+ Final words:
+
+ Optionally a joke.
+
+ Or a short benediction.
+
+ Or a salute to the audience and venue.
+
+ Leave contributions slide up during Q&A.
+
+ Avoid making your literal last word “thank you” (you can still mouth it during applause).
+
+This Bible gives you a compact but deep framework for speaking drawn from the transcript: why speaking matters, how to structure a talk, how to use tools and rooms, how to persuade in high-stakes settings, and how to be remembered. You can now treat each section as a module to practice and refine into your own style.
