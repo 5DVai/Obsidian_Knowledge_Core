@@ -10,9 +10,9 @@
 
 repo_url: https://github.com/5DVai/Obsidian_Knowledge_Core.git
 branch: main
-head: 6df48a27c633147f25b99b5e1bc049b6b5f2dd54
-tree_url: https://github.com/5DVai/Obsidian_Knowledge_Core/tree/6df48a27c633147f25b99b5e1bc049b6b5f2dd54
-commit_url: https://github.com/5DVai/Obsidian_Knowledge_Core/commit/6df48a27c633147f25b99b5e1bc049b6b5f2dd54
+head: d482709a43ec2f854f41e0dee8b7b7a53d067da0
+tree_url: https://github.com/5DVai/Obsidian_Knowledge_Core/tree/d482709a43ec2f854f41e0dee8b7b7a53d067da0
+commit_url: https://github.com/5DVai/Obsidian_Knowledge_Core/commit/d482709a43ec2f854f41e0dee8b7b7a53d067da0
 raw_handshake_log: https://raw.githubusercontent.com/5DVai/Obsidian_Knowledge_Core/main/Research/Indexes/Handshake_Log.md
 raw_public_proof: https://raw.githubusercontent.com/5DVai/Obsidian_Knowledge_Core/main/Research/Indexes/Public_Proof.md
 
