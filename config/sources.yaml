@@ -1,0 +1,149 @@
+# Brainstem Sources Configuration
+# Tier S and Tier 1 sources for knowledge ingestion
+
+sources:
+  # Coding & Software Engineering - Tier S
+  - name: "MDN Web Docs"
+    tier: S
+    domain: coding
+    url: "https://developer.mozilla.org/"
+    type: web
+    description: "Web standards, HTML/CSS/JS reference"
+    ingest_method: "webpage-to-markdown"
+    priority: high
+    
+  - name: "React Documentation"
+    tier: S
+    domain: coding
+    url: "https://react.dev/"
+    type: web
+    description: "Official React components and patterns"
+    ingest_method: "webpage-to-markdown"
+    priority: high
+    
+  - name: "TypeScript Documentation"
+    tier: S
+    domain: coding
+    url: "https://www.typescriptlang.org/docs/"
+    type: web
+    description: "TypeScript types, compiler, config reference"
+    ingest_method: "webpage-to-markdown"
+    priority: high
+    
+  - name: "Next.js Documentation"
+    tier: S
+    domain: coding
+    url: "https://nextjs.org/docs"
+    type: web
+    description: "Next.js routing, data, deployment"
+    ingest_method: "webpage-to-markdown"
+    priority: high
+    
+  - name: "Python Documentation"
+    tier: S
+    domain: coding
+    url: "https://docs.python.org/"
+    type: web
+    description: "Official Python language and library"
+    ingest_method: "webpage-to-markdown"
+    priority: high
+
+  # Scholarly - Tier S (arXiv papers)
+  - name: "Attention Is All You Need"
+    tier: S
+    domain: scholarly
+    arxiv_id: "1706.03762"
+    type: paper
+    description: "Transformer architecture paper"
+    ingest_method: "arxiv-fetch-read"
+    priority: high
+    
+  - name: "GPT-3 Paper"
+    tier: S
+    domain: scholarly
+    arxiv_id: "2005.14165"
+    type: paper
+    description: "Language Models are Few-Shot Learners"
+    ingest_method: "arxiv-fetch-read"
+    priority: high
+    
+  - name: "BERT Paper"
+    tier: S
+    domain: scholarly
+    arxiv_id: "1810.04805"
+    type: paper
+    description: "Pre-training of Deep Bidirectional Transformers"
+    ingest_method: "arxiv-fetch-read"
+    priority: high
+
+  # Scholarly - Tier S (Web sources)
+  - name: "arXiv Overview"
+    tier: S
+    domain: scholarly
+    url: "https://arxiv.org/"
+    type: web
+    description: "Latest preprints in STEM fields"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+    
+  - name: "Google Scholar"
+    tier: S
+    domain: scholarly
+    url: "https://scholar.google.com/"
+    type: web
+    description: "Cross-publisher scholarly article discovery"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+    
+  - name: "Semantic Scholar"
+    tier: S
+    domain: scholarly
+    url: "https://www.semanticscholar.org/"
+    type: web
+    description: "AI-assisted paper search and summaries"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+
+  # Mathematics - Tier S
+  - name: "Wolfram MathWorld"
+    tier: S
+    domain: mathematics
+    url: "https://mathworld.wolfram.com/"
+    type: web
+    description: "Definitions, theorems, formulas, visualizations"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+    
+  - name: "OEIS"
+    tier: S
+    domain: mathematics
+    url: "https://oeis.org/"
+    type: web
+    description: "Identify and explore integer sequences"
+    ingest_method: "webpage-to-markdown"
+    priority: low
+
+  # Science & Engineering - Tier S
+  - name: "PubMed Overview"
+    tier: S
+    domain: science
+    url: "https://pubmed.ncbi.nlm.nih.gov/"
+    type: web
+    description: "Biomedicine abstracts, trials, reviews"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+
+  # Learning Platforms - Tier S
+  - name: "MIT OpenCourseWare"
+    tier: S
+    domain: learning
+    url: "https://ocw.mit.edu/"
+    type: web
+    description: "University-level courses, materials, assignments"
+    ingest_method: "webpage-to-markdown"
+    priority: medium
+
+# Ingestion order: Process high priority first, then medium, then low
+# For papers: Use arxiv_id to fetch via Paper_Search MCP tools
+# For web: Use url with webpage-to-markdown MCP tool (whitelisted official docs only)
+
